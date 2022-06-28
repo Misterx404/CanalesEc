@@ -1,5 +1,5 @@
 #EXTM3U 
 
   
-#EXTINF:-1 tvg-id=»Ecuavisa» tvg-logo=»http://imgfz.com/i/VXk8hd0.png« group-title=»Canales Ecuatorianos« , Ecuavisa
+#EXTINF:-1 tvg-id="Ecuavisa.Ecuador" tvg-logo="http://imgfz.com/i/VXk8hd0.png" group-title="Canales" tvg-chno="2" tvg-country="Ecuador", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
